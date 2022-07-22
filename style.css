@@ -469,11 +469,15 @@ button {
 }
 
 .fronter{
-background-color:white;
+color:white;
   margin:8px;
 }
 
 #cta{
+background-color:white;
+  text-align:center;
+}
+.yeslet{
 background-color:white;
   text-align:center;
 }
